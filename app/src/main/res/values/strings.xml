@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_selected_website">SelectedWebsite</string>
+    <string name="title_activity_our_websites">OurWebsites</string>
+</resources>
